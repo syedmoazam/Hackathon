@@ -1,0 +1,12 @@
+#dashboardBread{
+    position: relative !important;
+    top: -24px;
+}
+
+#resSignup{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+body{
+    background-size: 100%;background-repeat: no-repeat;background-position: center;background-attachment: fixed;background-image:url(Restaurant/images/Indian-Street-Food.jpg);
+}
